@@ -12,6 +12,9 @@
 # Requirements
 - API 27 and above
 
+# Download
+See [Releases](https://github.com/arunocafe317/nakanishi-tatakeruno/releases/latest) page.
+
 # Languages
 - English
 - 日本語
