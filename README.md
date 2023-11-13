@@ -30,12 +30,12 @@ When a song is cleared, the performance is rated on a scale of 1 to 3 'gold liza
 In NogiFes, you play WITH the rhythm of the song. In this game, you play THE rhythm. Those who are familiar with rhythm games in general will notice that they usually fall under these two categories.
 
 ### In-game songs
-- 毎日がBrand new day / *Mainichi ga Brand New Day*
-- 路面電車の街 / *Romendensha no Machi*
-- 流星ディスコティック / *Ryuusei Discotique*
-- 失恋したら、顔を洗え！ / *Shisuren Shitara, Kao wo Arae!*
-- 黄昏はいつも / *Tasogare wa Itsumo*
-- Sing Out!
+- [毎日がBrand new day / *Mainichi ga Brand New Day*](https://youtu.be/V9D5rbLyIsM)
+- [路面電車の街 / *Romendensha no Machi*](https://youtu.be/ye2nUYN6e8I)
+- [流星ディスコティック / *Ryuusei Discotique*](https://youtu.be/tKrYcCU8ypQ)
+- [失恋したら、顔を洗え！ / *Shisuren Shitara, Kao wo Arae!*](https://youtu.be/SPJ9aSm17SU)
+- [黄昏はいつも / *Tasogare wa Itsumo*](https://youtu.be/oA-HRzNUUys)
+- [Sing Out!](https://youtu.be/XiYjkSPsQWI)
 
 # 'Free Drumming'
 This mode becomes available halfway through, and is pretty much your typical 'finger drum' interface with an option to play the backing tracks of songs that have been cleared. Great to jam with if you can for instance hook up your output to an external device/speaker.
