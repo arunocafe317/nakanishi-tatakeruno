@@ -1,5 +1,13 @@
 # Description
-Android drum rhythm game featuring Nogizaka46 songs.
+**中西ドラムタタケルノ？/Nakanishi Tatakeruno?** is an Android drum rhythm game featuring Nogizaka46 songs.
+
+# Screenshots
+<div align="center">
+  <img src="/images/main_menu.png" width="243" height="432"/>
+  <img src="/images/song_screen.png" width="243" height="432"/>
+  <img src="/images/gameplay1.png" width="243" height="432"/>
+  <img src="/images/free_drumming.png" width="243" height="432"/>
+</div>
 
 # Requirements
 - API 27 and above
@@ -37,3 +45,4 @@ The in-game drum parts are merely loose interpretations of the actual drum parts
 # Credits
 - Programming, translation: [TAMU](https://x.com/TAMUHAYA_SUB)
 - Testing: [中西デラックス](https://x.com/NUNS46)
+- Concept, design: Yours truly
