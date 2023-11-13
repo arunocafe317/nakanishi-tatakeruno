@@ -3,10 +3,10 @@
 
 # Screenshots
 <div align="center">
-  <img src="/images/main_menu.png" width="243" height="432"/>
-  <img src="/images/song_screen.png" width="243" height="432"/>
-  <img src="/images/gameplay1.png" width="243" height="432"/>
-  <img src="/images/free_drumming.png" width="243" height="432"/>
+  <img title="Main Menu" src="/images/main_menu.png" width="216" height="384"/>
+  <img title="Song Screen" src="/images/song_screen.png" width="216" height="384"/>
+  <img title="Gameplay" src="/images/gameplay1.png" width="216" height="384"/>
+  <img title="Free Drumming" src="/images/free_drumming.png" width="216" height="384"/>
 </div>
 
 # Requirements
