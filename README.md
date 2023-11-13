@@ -20,6 +20,8 @@ See [Releases](https://github.com/arunocafe317/nakanishi-tatakeruno/releases/lat
 - 日本語
 
 # Gameplay
+(Click [here](https://youtu.be/GyW3mMV63_0) for a video of the gameplay.)
+
 Notes, or lizards in this case, will appear and start falling down from the top of the gameplay area. The player has to tap on the buttons on the bottom area when these lizards line up with them. Points are scored based on how precisely timed (on beat) the button tap is.
 
 The Arunos at the bottom are the 'lives'. Losing all is game over obviously, but a life is only lost when a note is missed. Preempting doesn't cost a life, although no points will be scored this way. The game will judge whether it is preemptive/premature or an honest attempt to play the note on time. Again, only the latter will trigger the scoring system. A lost life can be regained if the player goes on a streak of successful hits.
